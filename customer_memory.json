@@ -1,0 +1,24 @@
+{
+  "customer_001": [
+    "Issue: My order #12345 has not arrived | Resolution: Agent asked for shipping address to investigate",
+    "Issue: Where is my order | Resolution: Still waiting for order #12345, agent checking status",
+    "Issue: any update on my situation? | Resolution: You're referring to order #12345 that hasn't arrived yet. I've checked on the status, and I still don't have an update. Can you please confirm your sh",
+    "Issue: I have another issue with a different product | Resolution: You've had some trouble with order #12345 in the past, but it sounds like this is a new issue. Can you please tell me more about the problem you're ex",
+    "Issue: where is my product | Resolution: I remember you've been waiting for order #12345 to arrive. I've checked on the status again, but unfortunately, I still don't have an update. Can you ",
+    "Issue: My laptop screen is broken and won't turn on | Resolution: I'm so sorry to hear that your laptop screen is broken. However, I want to make sure I'm addressing the right issue. You've had some trouble with orde",
+    "Issue: My laptop screen is broken and won't turn on | Resolution: I'm so sorry to hear that your laptop screen is broken. I remember you've had some trouble with order #12345 in the past, but this sounds like a separ",
+    "Issue: My laptop screen is broken and won't turn on | Resolution: I'm so sorry to hear that your laptop screen is broken. I remember you've had some trouble with order #12345 in the past, but this sounds like a separ",
+    "Issue: my laptop screen is broken | Resolution: I'm so sorry to hear that your laptop screen is broken. I remember we've discussed this issue before, and it sounds like a separate problem from your ",
+    "Issue: my laptop screen is broken | Resolution: I'm so sorry to hear that your laptop screen is still broken. We've discussed this issue before, and I know it's a separate problem from your ongoing "
+  ],
+  "customer_002": [
+    "Issue: I want to return my headphones, they are broken | Resolution: Return label sent to email, refund in 5-7 days",
+    "Issue: Did my refund come through | Resolution: Refund of 89 dollars processed on June 20th",
+    "Issue: I have another issue with a different product | Resolution: You've had issues with our headphones before, but it looks like we were able to resolve that with a return and refund of $89 on June 20th. Now, could ",
+    "Issue: i have issue with another product | Resolution: You've had issues with our products before, specifically with the headphones, which we were able to resolve with a return and refund of $89 on June 20"
+  ],
+  "customer_003": [
+    "Issue: hi, first time here | Resolution: Welcome to our e-commerce site. I'm happy to help you with any questions or concerns you may have. How can I assist you today? Are you looking for som",
+    "Issue: hi first time here | Resolution: Welcome back to our e-commerce site. I'm happy to help you with any questions or concerns you may have. You've reached out to us before, and I'd be gl"
+  ]
+}

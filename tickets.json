@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "customer_id": "customer_001",
+    "issue": "My laptop screen is broken and won't turn on",
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "customer_id": "customer_001",
+    "issue": "my laptop screen is broken",
+    "status": "open"
+  }
+]
